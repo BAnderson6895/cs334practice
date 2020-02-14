@@ -1,5 +1,5 @@
 # cs334practice
-
+# Moravian College Capstone Practice Repository 
 
 ## Developer Setup
 
